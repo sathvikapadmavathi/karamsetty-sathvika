@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>login page</title>
+</head>
+<body>
+<form name="frml">
+<table align="center">
+<caption><h3>login details</h3></caption>
+<tr>
+<td>username:</td>
+<td><input type="text" name="uname"></input></td>
+</tr>
+<tr>
+<td>password:</td>
+<td><input type="password" name="pwd"></input></td>
+</tr>
+<tr>
+<td></td>
+<td><input type="button" name="login" value="login"></input>    <input type="button" name="reset" value="reset"></input></td>
+</tr>
+</table>
+</form>
+</body>
+</html>
