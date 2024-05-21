@@ -1,0 +1,20 @@
+<departments>
+    <department>
+        <id>CSE</id>
+        <name>Computer Science</name>
+        <head>Dr. John Smith</head>
+        <location>Building A</location>
+    </department>
+    <department>
+        <id>ECE</id>
+        <name>Electrical Engineering</name>
+        <head>Dr. Jane Doe</head>
+        <location>Building B</location>
+    </department>
+    <department>
+        <id>ME</id>
+        <name>Mechanical Engineering</name>
+        <head>Dr. Richard Roe</head>
+        <location>Building C</location>
+    </department>
+</departments>
