@@ -1,0 +1,19 @@
+//DEPARTMENT
+{
+    "ID": "123" ,
+    "NAME": "CSE" ,
+    "LOCATION": "BLOCK A" ,
+}
+
+//YEAR
+{
+    "YEAR": "III" ,
+     "ACADEMIC YEAR": "2021-2024" ,
+     "SECTION" : "CSE" ,
+}
+//STUDENT
+{
+	"NAME" : "RISHI" ,
+	"ROLLNO" : "3" ,
+	"YEAR"   : "III" ,
+}
