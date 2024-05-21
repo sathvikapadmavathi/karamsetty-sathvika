@@ -1,0 +1,20 @@
+<students>
+    <student>
+        <id>1</id>
+        <name>john</name>
+        <department>ECE</department>
+        <year>2024</year>
+    </student>
+    <student>
+        <id>2</id>
+        <name>suresh</name>
+        <department>EEE</department>
+        <year>2023</year>
+    </student>
+    <student>
+        <id>3</id>
+        <name>mahesh</name>
+        <department>CSE</department>
+        <year>2025</year>
+    </student>
+</students>
