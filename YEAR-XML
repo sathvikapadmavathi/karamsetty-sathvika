@@ -1,0 +1,18 @@
+<years>
+    <year>
+        <id>2023</id>
+        <description>Freshman</description>
+    </year>
+    <year>
+        <id>2024</id>
+        <description>Sophomore</description>
+    </year>
+    <year>
+        <id>2025</id>
+        <description>Junior</description>
+    </year>
+    <year>
+        <id>2026</id>
+        <description>Senior</description>
+    </year>
+</years>
